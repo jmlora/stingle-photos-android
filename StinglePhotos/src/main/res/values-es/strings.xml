@@ -6,7 +6,7 @@
   <string name="setup_info">Por favor elije tu contraseña maestra. Puede ser como tú quieras, pero es altamente recomendable que la contraseña lleve al menos 12 caracteres y contenga letras mayúsculas y minúsculas, números y símbolos especiales (!?/$%#). Si la contraseña no es lo suficientemente segura entonces tus fotos/vídeos pueden ser vulnerables a ser desencriptados.</string>
   <string name="confirm_password">Confirmar Contraseña</string>
   <string name="password_not_match">Las contraseñas no coinciden. Por favor, introduce la contraseña correctamente dos veces.</string>
-  <string name="password_empty">Debes ingintroducir una contraseña.</string>
+  <string name="password_empty">Debes introducir una contraseña.</string>
   <string name="incorrect_password">Contraseña incorrecta.</string>
   <string name="settings">Ajustes</string>
   <string name="deleting_files">Borrando archivo(s)…</string>
@@ -83,8 +83,8 @@
   <string name="change">Cambiar</string>
   <string name="current_password">Contraseña Actual</string>
   <string name="new_password">Contraseña Nueva</string>
-  <string name="sdcard_perm_explain">Stingle Photos necesita tu permiso de acceso a la tarjeta SD para mostrar y crear fotos. Por favor,, permite el acceso para continuar.</string>
-  <string name="camera_perm_explain">Stingle Photos necesita tu permiso de acceso a la cámara para poder tomar fotos. Por favor permite el acceso para continuar.</string>
+  <string name="sdcard_perm_explain">Stingle Photos necesita tu permiso de acceso a la tarjeta SD para mostrar y crear fotos. Por favor, permite el acceso para continuar.</string>
+  <string name="camera_perm_explain">Stingle Photos necesita tu permiso de acceso a la cámara para poder tomar fotos. Por favor, permite el acceso para continuar.</string>
   <string name="shutter_sound">Sonido de disparo de la cámara</string>
   <string name="shutter_sound_desc">Reproducir sonido cuando se toman fotos</string>
   <string name="title_activity_settings">Ajustes</string>
@@ -133,7 +133,7 @@
   <string name="moved_to_trash">Enviado a la papelera</string>
   <string name="menu_change_password">Cambiar contraseña</string>
   <string name="warning_chpass">¡Advertencia! Cambiando la contraseña se cerrarán las sesiónes de todos los demás dispositivos enlazados a esta cuenta y tendrás que iniciar sesión nuevamente con las nuevas credenciales.</string>
-  <string name="home_folder_problem">Por favor revisa que la app tenga acceso al almacenamiento externo</string>
+  <string name="home_folder_problem">Por favor, revisa que la app tenga acceso al almacenamiento externo</string>
   <string name="no_space_left">¡Imposible subir archivo(s), no queda espacio en tu cuenta!</string>
   <string name="quota_text">%1$s de %2$s (%3$s) usado</string>
   <string name="menu_account">Cuenta</string>
@@ -226,7 +226,7 @@
   <string name="your_backup_phrase">Tu frase de respaldo</string>
   <string name="backup_key">Respaldar mi clave de encriptación</string>
   <string name="backup_key_desc">Cuando creas una cuenta las claves son generadas localmente y son el mayor secreto de tu cuenta.\n\nSi elijes respaldarlas, serán fuertemente encriptadas antes de respaldarlas y podrás accesar a tu cuenta desde otro dispositivo sin ninguna dificultad.\n\nPuedes elegir no respaldar tus claves, en tal caso necesitarás absolutamente escribir tu frase de respaldo, de otra manera NO podrás accesar de nuevo en el futuro.</string>
-  <string name="enter_backup_phrase">Por favor introduce tu frase de respaldo</string>
+  <string name="enter_backup_phrase">Por favor, introduce tu frase de respaldo</string>
   <string name="enter_backup_phrase_desc">Porque has elegido no respaldar tu clave privada, tienes que introducir tu frase de respaldo para reconstruir tu clave privada localmente. Sin una clave es imposible desencriptar tus fotos y vídeos.</string>
   <string name="backup_key_desc_pref">Respaldar mis claves para permitirme el acceso sin introducir mi frase de respaldo</string>
   <string name="key_backup_delete_confirm">¡¡¡ATENCIÓN!!!\n\n¿Estás seguro que deseas borrar el respaldo de tus claves?\n\n¡Para accesar de nuevo tendrás que introducir tu frase de respaldo!</string>
@@ -240,13 +240,13 @@
   <string name="locking">Acceso a la app</string>
   <string name="key_management">Administración de Clave</string>
   <string name="advanced">Avanzado</string>
-  <string name="password_for_biometrics">Para ajustar autenticación biométrica, por favor, ingresa tu contraseña</string>
-  <string name="password_for_backup">Para mostrar tu frase de respaldo, por favor, ingresa tu contraseña</string>
-  <string name="password_for_key_backup">Para respaldar tus claves, por favor, ingresa tu contraseña</string>
+  <string name="password_for_biometrics">Para ajustar autenticación biométrica, por favor, introduce tu contraseña</string>
+  <string name="password_for_backup">Para mostrar tu frase de respaldo, por favor, introduce tu contraseña</string>
+  <string name="password_for_key_backup">Para respaldar tus claves, por favor, introduce tu contraseña</string>
   <string name="exit">Salir</string>
   <string name="albums">Álbumes</string>
   <string name="sharing">Compartiendo</string>
-  <string name="enter_album_name">Por favor ingresa el nombre del álbum</string>
+  <string name="enter_album_name">Por favor, introduce el nombre del álbum</string>
   <string name="add_album_failed">Error al agregar álbum</string>
   <string name="add_to_album">Agregar al álbum</string>
   <string name="new_album">Nuevo álbum</string>
@@ -405,7 +405,7 @@
   <string name="delete_account">Borrar cuenta</string>
   <string name="delete_account_question">¿Borrar tu cuenta?</string>
   <string name="delete_account_question_desc">¿Estás seguro que deseas borrar tu cuenta? ¡Toda tu información será borrada ireversiblemente!</string>
-  <string name="password_for_account_delete">Para borrar tu cuenta por favor ingresa tu contraseña</string>
+  <string name="password_for_account_delete">Para borrar tu cuenta, por favor, introduce tu contraseña</string>
   <string name="delete_account_question2">¿Estás TOTALMENTE seguro que desea BORRAR tu cuenta?</string>
   <string name="delete_account_question_desc2">¡Última oportunidad! ¡Tu cuenta y todas tus fotos, vídeos, álbumes y compartidos serán borrados! ¡Ésto no podrá revertirse!</string>
   <string name="deleting_account">Borrando la cuenta&#x2026;</string>
